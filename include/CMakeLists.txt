@@ -1,0 +1,1 @@
+target_include_directories (Project_shaked_vaknin_noy_tal PRIVATE ${CMAKE_CURRENT_LIST_DIR})
